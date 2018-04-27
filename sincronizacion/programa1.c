@@ -87,7 +87,7 @@ void show_mon(shmem_data *pto_inf)
   int i=0;
   system("clear");
   printf("\n\t_______________________  Monitor De Procesos %d _______________________\n\n",pto_inf->pid_mon);
-  printf("\t\t PID\tNUMERO\tTERMINÓ\n");
+  printf("\t\t PID\tNUMERO\tTERMINO\n");
   printf("\t\t-------------------------\n");
   for(i; i<10; i++)
   {
