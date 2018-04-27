@@ -1,0 +1,4 @@
+
+#archivos ejecutables
+*.out
+*.o
